@@ -2,7 +2,7 @@
 
 # Tecnologies
 
-[![node](https://aleen42.github.io/badges)](https://aleen42.github.io/badges/src/node.svg)
+[![node](https://aleen42.github.io/badges/src/node.svg)](https://aleen42.github.io/badges/)
 [![node](https://aleen42.github.io/badges/src/node.svg)](https://aleen42.github.io/badges/src/node.svg)
 
 <!--
