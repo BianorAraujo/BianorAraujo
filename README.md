@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-# Tecnologies
+##### Tecnologies
 
 [![node](https://aleen42.github.io/badges/src/node.svg)](https://aleen42.github.io/badges/)
-[![node](https://aleen42.github.io/badges/src/node.svg)](https://aleen42.github.io/badges/src/node.svg)
+
+[![javascript](https://aleen42.github.io/badges/src/javascript.svg)](https://aleen42.github.io/badges/)
 
 <!--
 **BianorAraujo/BianorAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
