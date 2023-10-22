@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a full stack developer with over 10 years of experience.
-
+Microsoft .net and web developer is my main skill.
 
 #### New Skills
 [![npm](https://aleen42.github.io/badges/src/npm.svg)](https://aleen42.github.io/badges/)
