@@ -14,7 +14,7 @@ Microsoft .net and web developer is my main skill.
 [![docker](https://aleen42.github.io/badges/src/docker.svg)](https://aleen42.github.io/badges/)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bianoraraujo&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bianoraraujo&layout=compact&theme=shadow_blue)
 
 <!--
 **BianorAraujo/BianorAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
