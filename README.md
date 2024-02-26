@@ -10,8 +10,9 @@ Microsoft .net and web developer is my main skill.
 [![angular](https://aleen42.github.io/badges/src/angular.svg)](https://aleen42.github.io/badges/)
 [![react](https://aleen42.github.io/badges/src/react.svg)](https://aleen42.github.io/badges/)
 [![typescript](https://aleen42.github.io/badges/src/typescript.svg)](https://aleen42.github.io/badges/)
-[![javascript](https://aleen42.github.io/badges/src/javascript.svg)](https://aleen42.github.io/badges/)
+[![javascript](https://aleen42.github.io/badges/src/javascript_dfc.svg)](https://aleen42.github.io/badges/)
 [![docker](https://aleen42.github.io/badges/src/docker.svg)](https://aleen42.github.io/badges/)
+[![mongodb](https://aleen42.github.io/badges/src/mongodb_dfc.svg)](https://aleen42.github.io/badges/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bianoraraujo&layout=compact&theme=shadow_blue)
