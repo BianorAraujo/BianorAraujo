@@ -2,7 +2,7 @@
 
 I'm a full stack developer with over 10 years of experience.
 
-Microsoft .net and web developer is my main skill.
+Microsoft .net and web developer are my main skill.
 
 #### New Skills
 
