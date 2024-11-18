@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-I'm a full stack developer with over 10 years of experience.
+I'm a full stack developer with over 15 years of experience.
 
-Microsoft .net and web developer are my main skills.
+Microsoft .net and web development are my main skills.
+
+See more in my personal website:
+
+:globe_with_meridians: [www.bianoraraujo.com](https://www.bianoraraujo.com)
 
 #### New Skills
 
