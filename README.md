@@ -23,8 +23,8 @@ See more in my personal website:
 [![docker](https://aleen42.github.io/badges/src/docker.svg)](https://aleen42.github.io/badges/)
 [![mongodb](https://aleen42.github.io/badges/src/mongodb.svg)](https://aleen42.github.io/badges/)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bianoraraujo&layout=compact&theme=shadow_blue)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bianoraraujo&layout=compact&theme=nord)
 
 <!--
 **BianorAraujo/BianorAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
